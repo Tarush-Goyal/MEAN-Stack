@@ -1,8 +1,8 @@
-# Basic Register/Sign In with MEAN Stack
+# Basic MEAN Stack Application
 
-A basic User Authentication System using MEAN architecture.
+A basic User Authentication System which stores user details in a MongoDB database. Views and user interface are generated using Angular. Routes and Controllers are built using Node.js and Express.
 
-## Installation Steps (if applicable)
+## Installation Steps
 
 1. Clone repo: `git clone https://github.com/Tarush-Goyal/MEAN-Stack.git`
 2. Change into root directory: `cd mean-stack`
